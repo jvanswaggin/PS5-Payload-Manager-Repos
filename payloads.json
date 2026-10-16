@@ -1,0 +1,27 @@
+{
+  "name": "My Custom Payloads",
+  "payloads": [
+    {
+      "name": "ChronicLoader",
+      "filename": "chronicloader.elf",
+      "url": "https://github.com/StonedModder/ChronicLoader-PS5-Payload/releases/download/0.1/chronicloader.elf",
+      "source": "https://github.com/StonedModder/ChronicLoader-PS5-Payload/releases",
+      "source_direct": "https://github.com/StonedModder/ChronicLoader-PS5-Payload/releases/download/0.1/chronicloader.elf",
+      "description": "PS5 payload updater and autoload.txt manager.",
+      "last_update": "2026-04-07",
+      "version": "v0.1",
+      "category": "Utilities & Tools"
+    },
+    {
+      "name": "PS5 Server Suite",
+      "filename": "ps5_suite_server.elf",
+      "url": "https://github.com/manos555555/PS5-Suite/releases/download/v7.4.0/ps5_suite_server.elf",
+      "source": "https://github.com/manos555555/PS5-Suite/releases",
+      "source_direct": "https://github.com/manos555555/PS5-Suite/releases/download/v7.4.0/ps5_suite_server.elf",
+      "description": "All-in-one PS5 management suite server for parallel transfers, game mounting, and live system monitoring.",
+      "last_update": "2026-10-13",
+      "version": "v7.4.0",
+      "category": "Networking & Servers"
+    }
+  ]
+}
