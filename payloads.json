@@ -22,6 +22,17 @@
       "last_update": "2026-10-13",
       "version": "v7.4.0",
       "category": "Networking & Servers"
+    },
+    {
+      "name": "Orbit Store",
+      "filename": "orbit_store.elf",
+      "url": "https://github.com/saawant12/orbit-store-ps5/releases/download/v1.3.5/orbit_store.elf",
+      "source": "https://github.com/saawant12/orbit-store-ps5/releases",
+      "source_direct": "https://github.com/saawant12/orbit-store-ps5/releases/download/v1.3.5/orbit_store.elf",
+      "description": "Browse games, compare their available sources and formats, and download a single file directly to the console or an attached drive.",
+      "last_update": "2026-10-16",
+      "version": "v1.3.5",
+      "category": "Utilities & Tools"
     }
   ]
 }
